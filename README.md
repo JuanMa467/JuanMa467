@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-manuel-atencio-81bb3a260/" height="30" width="40" />
 </a>
   <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/juanma_atencio" target="blank">
+  <a href="https://instagram.com/atencio_juanma" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
   </a>
   
