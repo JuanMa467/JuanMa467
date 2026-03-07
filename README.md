@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Juan Manuel Atencio</h2>
 
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
