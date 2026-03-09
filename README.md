@@ -17,9 +17,11 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades como desarrolla
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=astro" height="50"/>
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
 </p>
 
 ---
