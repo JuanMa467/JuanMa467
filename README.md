@@ -47,21 +47,7 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades como desarrolla
 
 </p>
 
----
 
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JuanMa467&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMa467&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 <p align="center">
 🔥 Siempre aprendiendo algo nuevo
