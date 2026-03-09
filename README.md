@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Juan Manuel Atencio</h2>
+<h2 align="center">Hola, mi nombre es Juan Manuel Atencio</h2>
 
 <h3 align="center">💻 Estudiante de Desarrollo de Software</h3>
 
