@@ -31,7 +31,8 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades como desarrolla
 <p align="center">
 🎓 Estudiante de desarrollo de software<br>
 💻 Me gusta crear proyectos y aprender nuevas tecnologías<br>
-🚀 Actualmente mejorando mis habilidades en desarrollo web<br>
+🚀 Actualmente mejorando mis habilidades en desarrollo web.<br>
+🚀 Proyecto actual en Desarrollo: ES Piel Calma<br>
 📈 Siempre buscando crecer como programador
 </p>
 
